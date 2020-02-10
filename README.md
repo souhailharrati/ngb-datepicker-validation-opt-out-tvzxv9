@@ -1,3 +1,3 @@
-# ngb-datepicker-validation-opt-out-tvzxv9
+# ngb-datepicker-validation-opt-out-with-mask
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ngb-datepicker-validation-opt-out-tvzxv9)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ngb-datepicker-validation-opt-out-with-mask)
