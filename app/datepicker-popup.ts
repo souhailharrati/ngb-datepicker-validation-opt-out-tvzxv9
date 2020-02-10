@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import { FormControl, ValidationErrors, Validators } from "@angular/forms";
+import { FormControl, Validators } from "@angular/forms";
 
 @Component({
   selector: 'ngbd-datepicker-popup',
